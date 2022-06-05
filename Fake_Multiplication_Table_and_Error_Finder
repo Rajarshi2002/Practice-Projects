@@ -20,8 +20,6 @@ Rohan’s function returns this output:
 [6, 12, 18, 26, …., 60]
 
 You have to write a function isCorrect(table, number) and return the index where rohan’s function is wrong and print it to the screen! If the table is correct, your function returns None
-
-You cannot learn to code by just watching the code implementation until you start to doing it yourself.
 '''
 
 from random import randint

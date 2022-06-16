@@ -1,6 +1,5 @@
 /*
-Write a C program for the task as described below. Save the file as Test3 Part1 Roll Number.c.
-Build and run to check your program. Upload the .c file for the assignment in MS teams.
+Write a C program for the task as described below.
 (a) Define and allocate space for two n × n matrices M1 and M2 of strings, where n is read as
 input. The entries of M1 must be read in row major order as strings of length at most 19. Print
 M1 in a suitable manner row-wise. The entries of M2 must be strings of length at most 38.

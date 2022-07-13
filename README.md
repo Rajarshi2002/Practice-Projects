@@ -1,2 +1,2 @@
 # Practice-Projects
-Projects I have done as a beginner
+Projects, I have done as a beginner

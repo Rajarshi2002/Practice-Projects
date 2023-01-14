@@ -1,2 +1,2 @@
-# Practice-Projects
-Projects, I have done as a beginner
+# Mini-Projects
+Mini Projects that I have done during my coding journey.
